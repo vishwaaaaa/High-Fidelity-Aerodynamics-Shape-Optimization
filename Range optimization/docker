@@ -1,0 +1,1 @@
+docker run -it --mount "type=bind,src=/home/vishwaa/MACH-Aero-main/tutorial/aero/analysis,target=/home/mdolabuser/mount/" mdolab/public:u22-intel-impi-latest /bin/bash
